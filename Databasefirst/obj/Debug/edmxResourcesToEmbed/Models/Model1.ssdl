@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HOTELModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="cid" />
+    </Key>
+    <Property Name="cid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cname" Type="varchar" MaxLength="100" />
+    <Property Name="cemail" Type="varchar" MaxLength="100" />
+    <Property Name="cphone" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="oid" />
+    </Key>
+    <Property Name="oid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="oname" Type="varchar" MaxLength="100" />
+    <Property Name="odate" Type="date" />
+    <Property Name="qty" Type="varchar" MaxLength="100" />
+    <Property Name="oprice" Type="int" />
+    <Property Name="ostatus" Type="varchar" MaxLength="100" />
+    <Property Name="custID" Type="int" />
+  </EntityType>
+  <Association Name="FK__Orders__custID__4BAC3F29">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="cid" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="custID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HOTELModelStoreContainer">
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Orders__custID__4BAC3F29" Association="Self.FK__Orders__custID__4BAC3F29">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

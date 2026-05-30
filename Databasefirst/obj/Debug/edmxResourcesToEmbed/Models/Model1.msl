@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HOTELModelStoreContainer" CdmEntityContainer="HOTELEntities">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="HOTELModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="cid" ColumnName="cid" />
+          <ScalarProperty Name="cname" ColumnName="cname" />
+          <ScalarProperty Name="cemail" ColumnName="cemail" />
+          <ScalarProperty Name="cphone" ColumnName="cphone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="HOTELModel.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="oid" ColumnName="oid" />
+          <ScalarProperty Name="oname" ColumnName="oname" />
+          <ScalarProperty Name="odate" ColumnName="odate" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="oprice" ColumnName="oprice" />
+          <ScalarProperty Name="ostatus" ColumnName="ostatus" />
+          <ScalarProperty Name="custID" ColumnName="custID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

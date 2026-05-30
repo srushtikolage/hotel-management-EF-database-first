@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Employeemanagementsystem\\Databasefirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|e:\\employeemanagementsystem\\databasefirst\\databasefirst\\views\\home\\indexpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\views\\home\\indexpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\views\\order\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\views\\order\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|e:\\employeemanagementsystem\\databasefirst\\databasefirst\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|E:\\Employeemanagementsystem\\Databasefirst\\databasefirst\\views\\order\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB96DC6E-9C07-48D5-B440-87BDDB8D1A45}|Databasefirst\\Databasefirst.csproj|solutionrelative:databasefirst\\views\\order\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Indexpage.cshtml",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Home\\Indexpage.cshtml",
+              "RelativeDocumentMoniker": "Databasefirst\\Views\\Home\\Indexpage.cshtml",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Home\\Indexpage.cshtml",
+              "RelativeToolTip": "Databasefirst\\Views\\Home\\Indexpage.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAIApwFkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T10:44:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Web.config",
+              "RelativeDocumentMoniker": "Databasefirst\\Web.config",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Web.config",
+              "RelativeToolTip": "Databasefirst\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-20T11:27:24.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Databasefirst\\Global.asax.cs",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Global.asax.cs",
+              "RelativeToolTip": "Databasefirst\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:27:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Databasefirst\\Models\\Customer.cs",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Models\\Customer.cs",
+              "RelativeToolTip": "Databasefirst\\Models\\Customer.cs",
+              "ViewState": "AgIAABMAAABAzMzMzMwmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:27:11.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Databasefirst\\Models\\Model1.Context.cs",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "Databasefirst\\Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAwAAABgMTMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:26:32.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "Databasefirst\\Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "Databasefirst\\Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AgIAACQAAADAMjMzMzMXwDQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T10:19:40.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Databasefirst\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Databasefirst\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAA4AAACglpmZmRkmwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T18:33:07.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Databasefirst\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Databasefirst\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAcmZmZmVkjwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T18:31:26.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Order\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "Databasefirst\\Views\\Order\\AddOrder.cshtml",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Order\\AddOrder.cshtml",
+              "RelativeToolTip": "Databasefirst\\Views\\Order\\AddOrder.cshtml",
+              "ViewState": "AgIAADIAAACA/v////8gwEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T17:59:28.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditOrder.cshtml",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Order\\EditOrder.cshtml",
+              "RelativeDocumentMoniker": "Databasefirst\\Views\\Order\\EditOrder.cshtml",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Views\\Order\\EditOrder.cshtml",
+              "RelativeToolTip": "Databasefirst\\Views\\Order\\EditOrder.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T17:59:05.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Databasefirst\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Databasefirst\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAE0AAACgMjMzM3MgwDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:57:32.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Databasefirst\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Databasefirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAADIMTMzMzMbwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:55:09.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Databasefirst\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Employeemanagementsystem\\Databasefirst\\Databasefirst\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Databasefirst\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:13:37.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
